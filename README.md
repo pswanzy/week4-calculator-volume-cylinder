@@ -1,3 +1,3 @@
-Week 4 - Solution
-Computes the Volume of a Cylinder
-Prompts user for Radius and Height
+Cone mathematics:
+Computes the Volume of a Cone
+Prompts user for Radius and Volume
